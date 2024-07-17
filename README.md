@@ -18,3 +18,5 @@ At various times **I have been developing**:
 - “Cross-platform JavaScript applications” Yekaterinburg, pre-party DAMP, 2014;
 - “Developing games in JavaScript” St. Petersburg, NextCastleParty, 2013;
 - and etc.
+
+I am ready to work on your new projects. My [VC](https://bakhirev.pro/demo/portfolio/index.pdf)
