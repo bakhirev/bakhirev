@@ -10,13 +10,13 @@ At various times **I have been developing**:
 **Sometimes write articles** on [habr](https://habr.com/ru/users/bakhirev/), [reddit](https://www.reddit.com/r/github/comments/1bvtsl3/how_i_parsed_git_statistics/), [vc](https://vc.ru/tribuna/1283182-ya-napisal-instrument-analiza-komandy-dlya-timlidov-i-prishel-k-uspehu-net)
 
 #### Public speech:
-- “Build and compression” Web Academy, 2016;
-- “Localization” St. Petersburg, IMeetup, 2015;
-- “Architecture in games” Minsk, Frontend Dev Conf, 2015;
-- “Mobile development” Yekaterinburg, FrontTalks, 2014;
-- “Classes and factories” Minsk, Frontend Dev Conf, 2014;
-- “Cross-platform JavaScript applications” Yekaterinburg, pre-party DAMP, 2014;
-- “Developing games in JavaScript” St. Petersburg, NextCastleParty, 2013;
+- “[Build and compression](https://www.youtube.com/watch?v=sUb6CDDfN2o)” Web Academy, 2016;
+- “[Localization](https://www.youtube.com/watch?v=2J4jZSVsZks)” St. Petersburg, IMeetup, 2015;
+- “[Architecture in games](https://www.youtube.com/watch?v=I1CHink09Ig)” Minsk, Frontend Dev Conf, 2015;
+- “[Mobile development](https://www.youtube.com/watch?v=b0r1b_hpkdA)” Yekaterinburg, FrontTalks, 2014;
+- “[Classes and factories](https://www.youtube.com/watch?v=kj5VGQrusXI)” Minsk, Frontend Dev Conf, 2014;
+- “[Cross-platform JavaScript applications](https://www.youtube.com/watch?v=Pfn4cw6hyc4)” Yekaterinburg, pre-party DAMP, 2014;
+- “[Developing games in JavaScript](https://www.youtube.com/watch?v=G5l_uQXbukw)” St. Petersburg, NextCastleParty, 2013;
 - and etc.
 
 I am ready to work on your new projects. My [VC](https://bakhirev.pro/demo/portfolio/index.pdf)
