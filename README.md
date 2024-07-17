@@ -19,4 +19,4 @@ At various times **I have been developing**:
 - “[Developing games in JavaScript](https://www.youtube.com/watch?v=G5l_uQXbukw)” St. Petersburg, NextCastleParty, 2013;
 - and etc.
 
-I am ready to work on your new projects. My [VC](https://bakhirev.pro/demo/portfolio/index.pdf)
+Download: [resume](https://bakhirev.pro/demo/portfolio/index.pdf)
