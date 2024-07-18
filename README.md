@@ -7,7 +7,7 @@ At various times **I have been developing**:
 
 **Wrote a [book](https://github.com/MikhalevValentin/JavaScript_Books/blob/master/%D0%A1%D1%8E%D1%80%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%20%D0%BD%D0%B0%20JavaScript(2014%2C%20%D0%90.%20%D0%91%D0%B0%D1%85%D0%B8%D1%80%D0%B5%D0%B2).pdf)** about JavaScript (2014, ISBN 978-5-9905660-7-1)
 
-**Sometimes write articles** on [habr](https://habr.com/ru/users/bakhirev/), [reddit](https://www.reddit.com/r/github/comments/1bvtsl3/how_i_parsed_git_statistics/), [vc](https://vc.ru/tribuna/1283182-ya-napisal-instrument-analiza-komandy-dlya-timlidov-i-prishel-k-uspehu-net)
+**Sometimes write articles** on [habr](https://habr.com/ru/users/bakhirev/) (ru), [reddit](https://www.reddit.com/r/ITManagers/comments/1e5k291/the_visualization_and_analysis_of_git_commit/) (en)
 
 #### Public speech:
 - “[Build and compression](https://www.youtube.com/watch?v=sUb6CDDfN2o)” Web Academy, 2016;
