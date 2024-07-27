@@ -1,3 +1,5 @@
+###Team Lead / Senior Frontend Developer
+
 At various times **I have been developing**:
 - developed of [brand portals](https://bakhirev.pro/demo/portfolio/mobile.png) for smartphones;
 - library of base charts for [low-code platform](https://bakhirev.pro/demo/portfolio/pleeco.png);
