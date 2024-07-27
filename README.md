@@ -1,4 +1,4 @@
-###Team Lead / Senior Frontend Developer
+### Team Lead / Senior Frontend Developer
 
 At various times **I have been developing**:
 - developed of [brand portals](https://bakhirev.pro/demo/portfolio/mobile.png) for smartphones;
