@@ -22,4 +22,5 @@ At various times **I have been developing**:
 - and etc.
 
 Download: [resume](https://bakhirev.pro/demo/portfolio/index.pdf)
+
 Looking for a job in R&D or infrastructure projects
