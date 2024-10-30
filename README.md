@@ -13,7 +13,6 @@ At various times **I have been developing**:
 
 #### Public speech:
 - “[Collecting and processing logs](https://www.youtube.com/watch?v=jwCp_-bhrCQ)” St. Petersburg, Python Meetup, 2024;
-- “[Git metrics that identify ineffective colleagues](https://www.youtube.com/watch?v=mqfu-ea3jao)” St. Petersburg, PiterJS, 2024;
 - “[Build and compression](https://www.youtube.com/watch?v=sUb6CDDfN2o)” Web Academy, 2016;
 - “[Localization](https://www.youtube.com/watch?v=2J4jZSVsZks)” St. Petersburg, IMeetup, 2015;
 - “[Architecture in games](https://www.youtube.com/watch?v=I1CHink09Ig)” Minsk, Frontend Dev Conf, 2015;
