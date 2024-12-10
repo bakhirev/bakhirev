@@ -1,10 +1,10 @@
 ### Team Lead / Senior Frontend Developer
 
 At various times **I have been developing**:
-- developed of [brand portals](https://bakhirev-biz.1gb.ru/demo/portfolio/mobile.png) for smartphones;
-- library of base charts for [low-code platform](https://bakhirev-biz.1gb.ru/demo/portfolio/pleeco.png);
+- developed of [brand portals](http://bakhirev-biz.1gb.ru/demo/portfolio/mobile.png) for smartphones;
+- library of base charts for [low-code platform](http://bakhirev-biz.1gb.ru/demo/portfolio/pleeco.png);
 - сreated two games for Smart TV;
-- сreated ~20 [games](https://bakhirev-biz.1gb.ru/demo/portfolio/games.png) for smartphones;
+- сreated ~20 [games](http://bakhirev-biz.1gb.ru/demo/portfolio/games.png) for smartphones;
 - сreated ~7 extensions for browsers;
 
 **Wrote a [book](https://github.com/MikhalevValentin/JavaScript_Books/blob/master/%D0%A1%D1%8E%D1%80%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%20%D0%BD%D0%B0%20JavaScript(2014%2C%20%D0%90.%20%D0%91%D0%B0%D1%85%D0%B8%D1%80%D0%B5%D0%B2).pdf)** about JavaScript (2014, ISBN 978-5-9905660-7-1)
@@ -22,6 +22,6 @@ At various times **I have been developing**:
 - “[Developing games in JavaScript](https://www.youtube.com/watch?v=G5l_uQXbukw)” St. Petersburg, NextCastleParty, 2013;
 - and etc.
 
-Download: [resume](https://bakhirev-biz.1gb.ru/demo/portfolio/index.pdf)
+Download: [resume](http://bakhirev-biz.1gb.ru/demo/portfolio/index.pdf)
 
 Looking for a job in R&D or infrastructure projects
